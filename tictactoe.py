@@ -1,3 +1,6 @@
+#CSE210 W02 Prove
+#Ryan Alvord
+
 def main():
     player = next_player("")
     board = create_board()
